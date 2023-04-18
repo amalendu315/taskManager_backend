@@ -6,6 +6,7 @@ This project was bootstrapped with [Node.js and Express.js](https://github.com/f
 
 In the project directory, you can run:
 
+### `yarn install`
 ### `yarn start`
 
 Runs the app in the development mode.\
